@@ -18,3 +18,6 @@ Find trading pairs with low or zero transaction fees, so fees don't eat up your 
 
 ### Why not choose Staking/Flexible Savings...?
 Consider this: What if you could perform arbitrage multiple times a day? What if other financial products cease to offer high returns?
+
+### Reference
+- 市場莊家策略-限價盤提供流通量 / Book 程式交易快穩準 by 蔡嘉民
